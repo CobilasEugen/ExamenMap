@@ -8,3 +8,4 @@ Problemele
 problemele 17 , 4 , 9 , 10 
 
 17 fiindca nu exista c[0][4]
+am scris coment unde nu se intelege
