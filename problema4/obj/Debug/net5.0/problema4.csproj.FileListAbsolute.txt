@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\obj\Debug\net5.0\problema4.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\obj\Debug\net5.0\problema4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\obj\Debug\net5.0\problema4.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\obj\Debug\net5.0\problema4.AssemblyInfo.cs
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\obj\Debug\net5.0\problema4.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\bin\Debug\net5.0\problema4.exe
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\bin\Debug\net5.0\problema4.deps.json
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\bin\Debug\net5.0\problema4.runtimeconfig.json
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\bin\Debug\net5.0\problema4.runtimeconfig.dev.json
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\bin\Debug\net5.0\problema4.dll
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\bin\Debug\net5.0\ref\problema4.dll
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\bin\Debug\net5.0\problema4.pdb
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\obj\Debug\net5.0\problema4.dll
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\obj\Debug\net5.0\ref\problema4.dll
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\obj\Debug\net5.0\problema4.pdb
+C:\Users\Home\Desktop\ExamenMap\ExamenMap\problema4\obj\Debug\net5.0\problema4.genruntimeconfig.cache
