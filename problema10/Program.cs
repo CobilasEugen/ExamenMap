@@ -12,9 +12,9 @@ namespace problema10
         static void Main(string[] args)
 		{
 			Console.Write("n: ");
-			n = int.Parse(Console.ReadLine(StringSplitOptions.RemoveEmptyEntries));
+			n = int.Parse(Console.ReadLine());
 			Console.Write("m: ");
-			m = int.Parse(Console.ReadLine(StringSplitOptions.RemoveEmptyEntries));
+			m = int.Parse(Console.ReadLine());
 			Console.Write("nr min si nr max de noduri izolate: ");
 			
 			if (m * 2 >= n)
